@@ -1,27 +1,27 @@
 // Add your code here! Good Luck!
 
 
-let sum = () => {
-  // hint: dont forget to return your answer in this function
+let sum = (num1, num2) => {
+  return num1 + num2
 }
 
-let counter = () => {
-}
+// let counter = () => {
+// }
+  
+// let oddCounter = () => {
+// }
+  
+// let calculateSum = () => {
+// }
 
-let oddCounter = () => {
-}
+// let average = (arr) => {
+// }
+  
+// let findMax = (arr) => {
+// }
+  
+// let reverseArr = (arr) => {
+// }
 
-let calculateSum = () => {
-}
 
-
-let average = (arr) => {
-}
-
-let findMax = (arr) => {
-}
-
-let reverseArr = (arr) => {
-
-}
 
